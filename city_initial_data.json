@@ -1,0 +1,9199 @@
+[
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "大堂区",
+        "country": 131,
+        "code": "MO-01",
+        "name": "Cathedral"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "氹仔",
+        "country": 131,
+        "code": "MO-02",
+        "name": "Taipa"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "风顺堂区",
+        "country": 131,
+        "code": "MO-03",
+        "name": "St. Lawrence"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "花地玛堂区",
+        "country": 131,
+        "code": "MO-04",
+        "name": "Fatima"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "路环岛",
+        "country": 131,
+        "code": "MO-05",
+        "name": "Coloane"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "圣安多尼堂区",
+        "country": 131,
+        "code": "MO-06",
+        "name": "St. Anthony"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "望德堂区",
+        "country": 131,
+        "code": "MO-07",
+        "name": "St. Lazarus"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "彰化县",
+        "country": 218,
+        "code": "TW-01",
+        "name": "Changhua County"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "花莲县",
+        "country": 218,
+        "code": "TW-02",
+        "name": "Hualien County"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "基隆市",
+        "country": 218,
+        "code": "TW-03",
+        "name": "Keelung City"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "金门县",
+        "country": 218,
+        "code": "TW-04",
+        "name": "Kinmen County"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "嘉义市",
+        "country": 218,
+        "code": "TW-05",
+        "name": "Chiayi City"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "嘉义县",
+        "country": 218,
+        "code": "TW-06",
+        "name": "Chiayi County"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "连江县",
+        "country": 218,
+        "code": "TW-07",
+        "name": "Lianjiang County"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "苗栗县",
+        "country": 218,
+        "code": "TW-08",
+        "name": "Miaoli County"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "南投县",
+        "country": 218,
+        "code": "TW-09",
+        "name": "Nantou County"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "屏东县",
+        "country": 218,
+        "code": "TW-10",
+        "name": "Pingtung County"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "澎湖县",
+        "country": 218,
+        "code": "TW-11",
+        "name": "Penghu County"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "宜兰县",
+        "country": 218,
+        "code": "TW-12",
+        "name": "Yilan County"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "台东县",
+        "country": 218,
+        "code": "TW-13",
+        "name": "Taitung County"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "台南市",
+        "country": 218,
+        "code": "TW-14",
+        "name": "Tainan City"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "桃园县",
+        "country": 218,
+        "code": "TW-15",
+        "name": "Taoyuan County"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "台中市",
+        "country": 218,
+        "code": "TW-16",
+        "name": "Taichung City"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "新北市",
+        "country": 218,
+        "code": "TW-17",
+        "name": "New Taipei City"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "新竹市",
+        "country": 218,
+        "code": "TW-18",
+        "name": "Hsinchu City"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "新竹县",
+        "country": 218,
+        "code": "TW-19",
+        "name": "Hsinchu County"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "云林县",
+        "country": 218,
+        "code": "TW-20",
+        "name": "Yunlin County"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "北区",
+        "country": 100,
+        "code": "HK-01",
+        "name": "North"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "大埔区",
+        "country": 100,
+        "code": "HK-02",
+        "name": "Tai Po"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "东区",
+        "country": 100,
+        "code": "HK-03",
+        "name": "Eastern"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "观塘区",
+        "country": 100,
+        "code": "HK-04",
+        "name": "Kwun Tong"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "黄大仙区",
+        "country": 100,
+        "code": "HK-05",
+        "name": "Wong Tai Sin"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "九龙城区",
+        "country": 100,
+        "code": "HK-06",
+        "name": "Kowloon City"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "葵青区",
+        "country": 100,
+        "code": "HK-07",
+        "name": "Kwai Tsing"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "离岛区",
+        "country": 100,
+        "code": "HK-08",
+        "name": "Islands"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "南区",
+        "country": 100,
+        "code": "HK-09",
+        "name": "Southern"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "荃湾区",
+        "country": 100,
+        "code": "HK-10",
+        "name": "Tsuen Wan"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "深水埗区",
+        "country": 100,
+        "code": "HK-11",
+        "name": "Sham Shui Po"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "沙田区",
+        "country": 100,
+        "code": "HK-12",
+        "name": "Sha Tin"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "屯门区",
+        "country": 100,
+        "code": "HK-13",
+        "name": "Tuen Mun"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "湾仔区",
+        "country": 100,
+        "code": "HK-14",
+        "name": "Wan Chai"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "西贡区",
+        "country": 100,
+        "code": "HK-15",
+        "name": "Sai Kung"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "油尖旺区",
+        "country": 100,
+        "code": "HK-16",
+        "name": "Yau Tsim Mong"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "元朗区",
+        "country": 100,
+        "code": "HK-17",
+        "name": "Yuen Long"
+    }
+},
+{
+    "model": "location.state",
+    "fields": {
+        "cn_name": "中西区",
+        "country": 100,
+        "code": "HK-18",
+        "name": "Central and Western"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "北帕默斯顿",
+        "state": 127,
+        "name": "Palmerston"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "达尔文",
+        "state": 127,
+        "name": "Darwin"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "布里斯班",
+        "state": 128,
+        "name": "Brisbane"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "黄金海岸",
+        "state": 128,
+        "name": "Gold Coast"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "凯恩斯",
+        "state": 128,
+        "name": "Cairns"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "卡罗旺德拉",
+        "state": 128,
+        "name": "Caloundra"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "汤斯维尔",
+        "state": 128,
+        "name": "Townsville"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "图文巴",
+        "state": 128,
+        "name": "Toowoomba"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "阿德莱德",
+        "state": 129,
+        "name": "Adelaide"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "奥古斯塔",
+        "state": 129,
+        "name": "Port Augusta"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "甘比亚山",
+        "state": 129,
+        "name": "Mount Gambier"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "怀阿拉",
+        "state": 129,
+        "name": "Whyalla"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "林肯港",
+        "state": 129,
+        "name": "Port Lincoln"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "默里布里奇",
+        "state": 129,
+        "name": "Murray Bridge"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "皮里港",
+        "state": 129,
+        "name": "Port Pirie"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "维克托港",
+        "state": 129,
+        "name": "Victor Harbor"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "伯尼港",
+        "state": 130,
+        "name": "Burnie"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "德文波特",
+        "state": 130,
+        "name": "Devonport"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "霍巴特",
+        "state": 130,
+        "name": "Hobart"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "朗塞斯顿",
+        "state": 130,
+        "name": "Launceston"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "吉朗",
+        "state": 131,
+        "name": "Geelong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "墨尔本",
+        "state": 131,
+        "name": "Melbourne"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "奥尔巴尼",
+        "state": 132,
+        "name": "Albany"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "班伯里",
+        "state": 132,
+        "name": "Bunbury"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "弗里曼特尔港",
+        "state": 132,
+        "name": "Fremantle"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "杰拉尔顿",
+        "state": 132,
+        "name": "Geraldton"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "曼哲拉",
+        "state": 132,
+        "name": "Mandurah"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "珀斯",
+        "state": 132,
+        "name": "Perth"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "卡尔古利",
+        "state": 132,
+        "name": "Kalgoorlie"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "纽卡斯尔",
+        "state": 126,
+        "name": "Newcastle"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "伍伦贡",
+        "state": 126,
+        "name": "Wollongong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "悉尼",
+        "state": 126,
+        "name": "Sydney"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "达城郡",
+        "state": 1476,
+        "name": "Dalseong-gun"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "大邱",
+        "state": 1476,
+        "name": "Taegu-jikhalsi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "寿城区",
+        "state": 1476,
+        "name": "Suseong-gu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "春川市",
+        "state": 1457,
+        "name": "Chuncheon"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "东海市",
+        "state": 1457,
+        "name": "Donghae"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "高城郡",
+        "state": 1457,
+        "name": "Goseong County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "洪川郡",
+        "state": 1457,
+        "name": "Hongcheon County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "横城郡",
+        "state": 1457,
+        "name": "Hoengseong County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "华川郡",
+        "state": 1457,
+        "name": "Hwacheon County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "江陵市",
+        "state": 1457,
+        "name": "Gangneung"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "旌善郡",
+        "state": 1457,
+        "name": "Jeongseon County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "麟蹄郡",
+        "state": 1457,
+        "name": "Inje County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "宁越郡",
+        "state": 1457,
+        "name": "Yeongwol County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "平昌郡",
+        "state": 1457,
+        "name": "Pyeongchang County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "束草市",
+        "state": 1457,
+        "name": "Sokcho"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "三陟市",
+        "state": 1457,
+        "name": "Samcheok"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "太白市",
+        "state": 1457,
+        "name": "Taebaek"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "铁原郡",
+        "state": 1457,
+        "name": "Cheorwon County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "襄阳郡",
+        "state": 1457,
+        "name": "Yangyang County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "杨口郡",
+        "state": 1457,
+        "name": "Yanggu County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "原州市",
+        "state": 1457,
+        "name": "Wonju"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "安城市",
+        "state": 1465,
+        "name": "Anseong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "安山市",
+        "state": 1465,
+        "name": "Ansan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "安养市",
+        "state": 1465,
+        "name": "Anyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "抱川市",
+        "state": 1465,
+        "name": "Pocheon"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "城南市",
+        "state": 1465,
+        "name": "Seongnam"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "东豆川市",
+        "state": 1465,
+        "name": "Dongducheon"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "富川市",
+        "state": 1465,
+        "name": "Bucheon"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "果川市",
+        "state": 1465,
+        "name": "Gwacheon"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "光明市",
+        "state": 1465,
+        "name": "Gwangmyeong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "高阳市",
+        "state": 1465,
+        "name": "Goyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "广州市",
+        "state": 1465,
+        "name": "Gwangju"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "华城市",
+        "state": 1465,
+        "name": "Hwaseong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "河南市",
+        "state": 1465,
+        "name": "Hanam"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "九里市",
+        "state": 1465,
+        "name": "Guri"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "加平郡",
+        "state": 1465,
+        "name": "Gapyeong County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "军浦市",
+        "state": 1465,
+        "name": "Gunpo"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "金浦市",
+        "state": 1465,
+        "name": "Gimpo"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "涟川郡",
+        "state": 1465,
+        "name": "Yeoncheon County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "利川市",
+        "state": 1465,
+        "name": "Icheon"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "龙仁市",
+        "state": 1465,
+        "name": "Yongin"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "骊州郡",
+        "state": 1465,
+        "name": "Yeoju County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "南杨州市",
+        "state": 1465,
+        "name": "Namyangju"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "坡州市",
+        "state": 1465,
+        "name": "Paju"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "平泽市",
+        "state": 1465,
+        "name": "Pyeongtaek"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "始兴市",
+        "state": 1465,
+        "name": "Siheung"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "水原市",
+        "state": 1465,
+        "name": "Suwon"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "乌山市",
+        "state": 1465,
+        "name": "Osan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "扬平郡",
+        "state": 1465,
+        "name": "Yangpyeong County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "仪旺市",
+        "state": 1465,
+        "name": "Uiwang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "议政府",
+        "state": 1465,
+        "name": "Uijeongbu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "杨州市",
+        "state": 1465,
+        "name": "Yangju"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "淳昌郡",
+        "state": 1466,
+        "name": "Sunchang County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "长水郡",
+        "state": 1466,
+        "name": "Jangsu County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "扶安郡",
+        "state": 1466,
+        "name": "Buan County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "高敞郡",
+        "state": 1466,
+        "name": "Gochang County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "金堤市",
+        "state": 1466,
+        "name": "Gimje"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "井邑市",
+        "state": 1466,
+        "name": "Jeongeup"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "茂朱郡",
+        "state": 1466,
+        "name": "Muju County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "南原市",
+        "state": 1466,
+        "name": "Namwon"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "群山市",
+        "state": 1466,
+        "name": "Gunsan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "全州市",
+        "state": 1466,
+        "name": "Jeonju"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "任实郡",
+        "state": 1466,
+        "name": "Imsil County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "完州郡",
+        "state": 1466,
+        "name": "Wanju County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "益山市",
+        "state": 1466,
+        "name": "Iksan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "鎭安郡",
+        "state": 1466,
+        "name": "Jinan County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "宝城郡",
+        "state": 1467,
+        "name": "Boseong County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "长城郡",
+        "state": 1467,
+        "name": "Jangseong County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "长兴郡",
+        "state": 1467,
+        "name": "Jangheung County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "谷城郡",
+        "state": 1467,
+        "name": "Gokseong County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "莞岛郡",
+        "state": 1467,
+        "name": "Wando County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "高兴郡",
+        "state": 1467,
+        "name": "Goheung County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "光阳市",
+        "state": 1467,
+        "name": "Gwangyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "海南郡",
+        "state": 1467,
+        "name": "Haenam County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "和顺郡",
+        "state": 1467,
+        "name": "Hwasun County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "康津郡",
+        "state": 1467,
+        "name": "Gangjin County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "灵光郡",
+        "state": 1467,
+        "name": "Yeonggwang County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "丽水市",
+        "state": 1467,
+        "name": "Yeosu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "灵岩郡",
+        "state": 1467,
+        "name": "Yeongam County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "罗州市",
+        "state": 1467,
+        "name": "Naju"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "木浦市",
+        "state": 1467,
+        "name": "Mokpo"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "求礼郡",
+        "state": 1467,
+        "name": "Gurye County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "顺天市",
+        "state": 1467,
+        "name": "Suncheon"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "潭阳郡",
+        "state": 1467,
+        "name": "Damyang County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "务安郡",
+        "state": 1467,
+        "name": "Muan County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "新安郡",
+        "state": 1467,
+        "name": "Sinan County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "咸平郡",
+        "state": 1467,
+        "name": "Hampyeong County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "珍岛郡",
+        "state": 1467,
+        "name": "Jindo County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "安东市",
+        "state": 1472,
+        "name": "Andong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "淸道郡",
+        "state": 1472,
+        "name": "Cheongdo County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "奉化郡",
+        "state": 1472,
+        "name": "Bonghwa County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "高灵郡",
+        "state": 1472,
+        "name": "Goryeong County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "龟尾市",
+        "state": 1472,
+        "name": "Gumi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "金泉市",
+        "state": 1472,
+        "name": "Gimcheon"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "军威郡",
+        "state": 1472,
+        "name": "Gunwi County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "醴泉郡",
+        "state": 1472,
+        "name": "Yecheon County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "浦项市",
+        "state": 1472,
+        "name": "Pohang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "漆谷郡",
+        "state": 1472,
+        "name": "Chilgok County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "庆山市",
+        "state": 1472,
+        "name": "Gyeongsan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "庆州市",
+        "state": 1472,
+        "name": "Gyeongju"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "荣州市",
+        "state": 1472,
+        "name": "Yeongju"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "靑松郡",
+        "state": 1472,
+        "name": "Cheongsong County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "尙州市",
+        "state": 1472,
+        "name": "Sangju"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "闻庆市",
+        "state": 1472,
+        "name": "Mungyeong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "蔚珍郡",
+        "state": 1472,
+        "name": "Uljin County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "星州郡",
+        "state": 1472,
+        "name": "Seongju County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "义城郡",
+        "state": 1472,
+        "name": "Uiseong County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "永川市",
+        "state": 1472,
+        "name": "Yeongcheon"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "盈德郡",
+        "state": 1472,
+        "name": "Yeongdeok County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "郁陵郡",
+        "state": 1472,
+        "name": "Ulleung County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "英阳郡",
+        "state": 1472,
+        "name": "Yeongyang County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "昌宁郡",
+        "state": 1473,
+        "name": "Changnyeong County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "昌原市",
+        "state": 1473,
+        "name": "Changwon"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "固城郡",
+        "state": 1473,
+        "name": "Goseong County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "河东郡",
+        "state": 1473,
+        "name": "Hadong County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "居昌郡",
+        "state": 1473,
+        "name": "Geochang County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "金海市",
+        "state": 1473,
+        "name": "Gimhae"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "巨济市",
+        "state": 1473,
+        "name": "Geoje"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "晋州市",
+        "state": 1473,
+        "name": "Jinju"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "梁山市",
+        "state": 1473,
+        "name": "Yangsan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "马山市",
+        "state": 1473,
+        "name": "Masan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "密阳市",
+        "state": 1473,
+        "name": "Miryang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "南海郡",
+        "state": 1473,
+        "name": "Namhae County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "泗川市",
+        "state": 1473,
+        "name": "Sacheon"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "山淸郡",
+        "state": 1473,
+        "name": "Sancheong County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "统营市",
+        "state": 1473,
+        "name": "Tongyeong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "咸安郡",
+        "state": 1473,
+        "name": "Haman County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "陜川郡",
+        "state": 1473,
+        "name": "Hapcheon County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "咸阳郡",
+        "state": 1473,
+        "name": "Hamyang County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "宜宁郡",
+        "state": 1473,
+        "name": "Uiryeong County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "鎭海市",
+        "state": 1473,
+        "name": "Jinhae"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "报恩郡",
+        "state": 1463,
+        "name": "Boeun County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "堤川市",
+        "state": 1463,
+        "name": "Jecheon"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "丹阳郡",
+        "state": 1463,
+        "name": "Danyang County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "槐山郡",
+        "state": 1463,
+        "name": "Goesan County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "沃川郡",
+        "state": 1463,
+        "name": "Okcheon County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "阴城郡",
+        "state": 1463,
+        "name": "Eumseong County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "淸原郡",
+        "state": 1463,
+        "name": "Cheongwon County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "永同郡",
+        "state": 1463,
+        "name": "Yeongdong County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "鎭川郡",
+        "state": 1463,
+        "name": "Jincheon County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "曾坪郡",
+        "state": 1463,
+        "name": "Jeungpyeong County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "淸州市",
+        "state": 1463,
+        "name": "Cheongju"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "忠州市",
+        "state": 1463,
+        "name": "Chungju"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "保宁市",
+        "state": 1464,
+        "name": "Boryeong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "扶余郡",
+        "state": 1464,
+        "name": "Buyeo County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "公州市",
+        "state": 1464,
+        "name": "Gongju"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "洪城郡",
+        "state": 1464,
+        "name": "Hongseong County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "鸡龙市",
+        "state": 1464,
+        "name": "Gyeryong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "锦山郡",
+        "state": 1464,
+        "name": "Geumsan County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "礼山郡",
+        "state": 1464,
+        "name": "Yesan County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "论山市",
+        "state": 1464,
+        "name": "Nonsan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "青阳郡",
+        "state": 1464,
+        "name": "Cheongyang County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "瑞山市",
+        "state": 1464,
+        "name": "Seosan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "舒川郡",
+        "state": 1464,
+        "name": "Seocheon County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "泰安郡",
+        "state": 1464,
+        "name": "Taean County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "天安市",
+        "state": 1464,
+        "name": "Cheonan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "唐津郡",
+        "state": 1464,
+        "name": "Dangjin County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "燕岐郡",
+        "state": 1464,
+        "name": "Yeongi County"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "牙山市",
+        "state": 1464,
+        "name": "Asan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "爱达荷福尔斯",
+        "state": 3126,
+        "name": "Idaho Falls"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "布莱克富特",
+        "state": 3126,
+        "name": "Blackfoot"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "波卡特洛",
+        "state": 3126,
+        "name": "Pocatello"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "博伊西",
+        "state": 3126,
+        "name": "Boise"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "科达伦",
+        "state": 3126,
+        "name": "Coeur d'Alene"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "刘易斯顿",
+        "state": 3126,
+        "name": "Lewiston"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "墨菲",
+        "state": 3126,
+        "name": "Murphy"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "莫斯科",
+        "state": 3126,
+        "name": "Moscow"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "楠帕",
+        "state": 3126,
+        "name": "Nampa"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "岂彻姆",
+        "state": 3126,
+        "name": "Ketchum"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "森瓦利",
+        "state": 3126,
+        "name": "Sun Valley"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "亚美利加瀑布城",
+        "state": 3126,
+        "name": "American Falls"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "得梅因",
+        "state": 3129,
+        "name": "Des Moines"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "达文波特",
+        "state": 3129,
+        "name": "Davenport"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "锡达拉皮兹",
+        "state": 3129,
+        "name": "Cedar Rapids"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "费耶特维尔",
+        "state": 3117,
+        "name": "Fayetteville"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "史密斯堡",
+        "state": 3117,
+        "name": "Fort Smith"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "小石城",
+        "state": 3117,
+        "name": "Little Rock"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "伯明罕",
+        "state": 3114,
+        "name": "Birmingham"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "莫比尔",
+        "state": 3114,
+        "name": "Mobile"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "蒙哥马利",
+        "state": 3114,
+        "name": "Montgomery"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "安克雷奇",
+        "state": 3115,
+        "name": "Anchorage"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "费尔班克斯",
+        "state": 3115,
+        "name": "Fairbanks"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "朱诺",
+        "state": 3115,
+        "name": "Juneau"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "俾斯麦",
+        "state": 3148,
+        "name": "Bismarck"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "大福克斯",
+        "state": 3148,
+        "name": "Grand Forks"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "法戈",
+        "state": 3148,
+        "name": "Fargo"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "迈诺特",
+        "state": 3148,
+        "name": "Minot"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "艾许维尔",
+        "state": 3147,
+        "name": "Asheville"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "杜罕",
+        "state": 3147,
+        "name": "Durham"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "格林斯伯勒",
+        "state": 3147,
+        "name": "Greensboro"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "教堂山",
+        "state": 3147,
+        "name": "Chapel Hill"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "罗利",
+        "state": 3147,
+        "name": "Raleigh"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "洛利杜罕都会区",
+        "state": 3147,
+        "name": "Raleigh-Durham"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "夏洛特",
+        "state": 3147,
+        "name": "Charlotte"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "阿伦敦",
+        "state": 3152,
+        "name": "Allentown"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "费城",
+        "state": 3152,
+        "name": "Philadelphia"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "匹兹堡",
+        "state": 3152,
+        "name": "Pittsburgh"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "埃尔帕索",
+        "state": 3157,
+        "name": "El Paso"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "奥斯汀",
+        "state": 3157,
+        "name": "Austin"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "达拉斯",
+        "state": 3157,
+        "name": "Dallas"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "哥帕斯基斯蒂",
+        "state": 3157,
+        "name": "Corpus Christi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "交维斯顿",
+        "state": 3157,
+        "name": "Galveston"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "拉雷多",
+        "state": 3157,
+        "name": "Laredo"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "麦卡伦",
+        "state": 3157,
+        "name": "Mcallen"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "圣安东尼奥",
+        "state": 3157,
+        "name": "San Antonio"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "休斯敦",
+        "state": 3157,
+        "name": "Houston"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "代顿",
+        "state": 3149,
+        "name": "Dayton"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "哥伦布",
+        "state": 3149,
+        "name": "Columbus"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "克利夫兰",
+        "state": 3149,
+        "name": "Cleveland"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "托莱多",
+        "state": 3149,
+        "name": "Toledo"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "辛辛那提",
+        "state": 3149,
+        "name": "Cincinnati"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "俄克拉荷马城",
+        "state": 3150,
+        "name": "Oklahoma City"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "诺曼",
+        "state": 3150,
+        "name": "Norman"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "塔尔萨",
+        "state": 3150,
+        "name": "Tulsa"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "本德",
+        "state": 3151,
+        "name": "Bend"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "波特兰",
+        "state": 3151,
+        "name": "Portland"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "达尔斯",
+        "state": 3151,
+        "name": "The Dalles"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "蒂拉穆克",
+        "state": 3151,
+        "name": "Tillamook"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "达拉斯",
+        "state": 3151,
+        "name": "Dallas"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "格兰茨帕斯",
+        "state": 3151,
+        "name": "Grant's Pass"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "胡德里弗",
+        "state": 3151,
+        "name": "Hood River"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "火山口湖",
+        "state": 3151,
+        "name": "Crater Lake"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "库斯贝",
+        "state": 3151,
+        "name": "Coos Bay"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "科瓦利斯",
+        "state": 3151,
+        "name": "Corvallis"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "梅德福",
+        "state": 3151,
+        "name": "Medford"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "圣海伦斯",
+        "state": 3151,
+        "name": "St Helens"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "塞勒姆",
+        "state": 3151,
+        "name": "Salem"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "斯普林菲尔德",
+        "state": 3151,
+        "name": "Springfield"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "尤金",
+        "state": 3151,
+        "name": "Eugene"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "奥兰多",
+        "state": 3123,
+        "name": "Orlando"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "杰克逊维尔",
+        "state": 3123,
+        "name": "Jacksonville"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "基韦斯特",
+        "state": 3123,
+        "name": "Key West"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "罗德岱堡",
+        "state": 3123,
+        "name": "Fort Lauderdale"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "迈阿密",
+        "state": 3123,
+        "name": "Miami"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "卡纳维拉尔角",
+        "state": 3123,
+        "name": "Cape Canaveral?"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "圣彼德斯堡市",
+        "state": 3123,
+        "name": "St. Petersburg"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "塔拉哈西",
+        "state": 3123,
+        "name": "Tallahassee"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "坦帕",
+        "state": 3123,
+        "name": "Tampa"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "伯灵顿",
+        "state": 3159,
+        "name": "Burlington"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "拉特兰",
+        "state": 3159,
+        "name": "Rutland"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "南伯灵顿",
+        "state": 3159,
+        "name": "South Burlington"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "华盛顿哥伦比亚特区",
+        "state": 3122,
+        "name": "Washington D.C."
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "埃文斯顿",
+        "state": 3164,
+        "name": "Evanston"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "罗克斯普林斯",
+        "state": 3164,
+        "name": "Rock Springs"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "拉勒米",
+        "state": 3164,
+        "name": "Laramie"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "卡斯帕",
+        "state": 3164,
+        "name": "Casper"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "谢里登",
+        "state": 3164,
+        "name": "Sheridan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "夏延",
+        "state": 3164,
+        "name": "Cheyenne"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "斯波坎",
+        "state": 3161,
+        "name": "Spokane"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "塔科马",
+        "state": 3161,
+        "name": "Tacoma"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "西雅图",
+        "state": 3161,
+        "name": "Seattle"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "旧金山",
+        "state": 3118,
+        "name": "San Francisco"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "洛杉矶",
+        "state": 3118,
+        "name": "Los Angeles"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "圣迭戈",
+        "state": 3118,
+        "name": "San Diego"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "圣何塞",
+        "state": 3118,
+        "name": "San Jose"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "奥罗拉",
+        "state": 3119,
+        "name": "Aurora"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "阿斯彭",
+        "state": 3119,
+        "name": "Aspen"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "博尔德",
+        "state": 3119,
+        "name": "Boulder"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "丹佛",
+        "state": 3119,
+        "name": "Denver"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "大章克申",
+        "state": 3119,
+        "name": "Grand Junction"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "科罗拉多斯普林斯",
+        "state": 3119,
+        "name": "Colorado Springs"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "柯林斯堡",
+        "state": 3119,
+        "name": "Fort Collins"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "韦尔",
+        "state": 3119,
+        "name": "Vail"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "布里奇波特",
+        "state": 3120,
+        "name": "Bridgeport"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "达里恩",
+        "state": 3120,
+        "name": "Darien"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "格林尼治",
+        "state": 3120,
+        "name": "Greenwich"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "哈特福德",
+        "state": 3120,
+        "name": "Hartford"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "米德尔顿",
+        "state": 3120,
+        "name": "Middletown"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "纽黑文",
+        "state": 3120,
+        "name": "New Haven"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "韦斯特波特",
+        "state": 3120,
+        "name": "Westport"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "沃特伯里",
+        "state": 3120,
+        "name": "Waterbury"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "新不列颠",
+        "state": 3120,
+        "name": "New Britain"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "阿比林",
+        "state": 3130,
+        "name": "Abilene"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "奥弗兰公园",
+        "state": 3130,
+        "name": "Overland Park"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "哈钦森",
+        "state": 3130,
+        "name": "Hutchinson"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "堪萨斯城",
+        "state": 3130,
+        "name": "Kansas City"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "劳伦斯",
+        "state": 3130,
+        "name": "Lawrence"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "莱文沃思",
+        "state": 3130,
+        "name": "Leavenworth"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "曼哈顿",
+        "state": 3130,
+        "name": "Manhattan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "托皮卡",
+        "state": 3130,
+        "name": "Topeka"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "威奇托",
+        "state": 3130,
+        "name": "Wichita"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "列克星敦",
+        "state": 3131,
+        "name": "Lexington"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "路易斯维尔",
+        "state": 3131,
+        "name": "Louisville"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "欧文斯伯勒",
+        "state": 3131,
+        "name": "Owensboro"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "波塔基特",
+        "state": 3153,
+        "name": "Pawtucket"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "克兰斯顿",
+        "state": 3153,
+        "name": "Cranston"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "纽波特",
+        "state": 3153,
+        "name": "Newport"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "普罗维登斯",
+        "state": 3153,
+        "name": "Providence"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "文索基特",
+        "state": 3153,
+        "name": "Woonsocket"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "韦斯特利",
+        "state": 3153,
+        "name": "Westerly"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "沃威克",
+        "state": 3153,
+        "name": "Warwick"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "巴吞鲁日",
+        "state": 3132,
+        "name": "Baton Rouge"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "什里夫波特",
+        "state": 3132,
+        "name": "Shreveport"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "新奥尔良",
+        "state": 3132,
+        "name": "New Orleans"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "比灵斯",
+        "state": 276,
+        "name": "Billings"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "大瀑布村",
+        "state": 276,
+        "name": "Great Falls"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "米苏拉",
+        "state": 276,
+        "name": "Missoula"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "巴尔的摩",
+        "state": 1552,
+        "name": "Balitmore"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "盖瑟斯堡",
+        "state": 1552,
+        "name": "Gaithersburg"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "罗克维尔",
+        "state": 1552,
+        "name": "Rockville"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "罗切斯特",
+        "state": 3137,
+        "name": "Rochester"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "明尼阿波利斯",
+        "state": 3137,
+        "name": "Minneapolis"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "圣保罗",
+        "state": 3137,
+        "name": "Saint Paul"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "哥伦比亚",
+        "state": 3139,
+        "name": "Colombia"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "杰佛逊市",
+        "state": 3139,
+        "name": "Jefferson City"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "堪萨斯城",
+        "state": 3139,
+        "name": "Kansas City"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "圣路易斯",
+        "state": 3139,
+        "name": "Saint Louis"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "斯普林菲尔德",
+        "state": 3139,
+        "name": "Springfield"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "波士顿",
+        "state": 3135,
+        "name": "Boston"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "斯普林菲尔德",
+        "state": 3135,
+        "name": "Springfield"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "伍斯特",
+        "state": 3135,
+        "name": "Worcester"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "安娜堡",
+        "state": 3136,
+        "name": "Ann Arbor"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "贝城",
+        "state": 3136,
+        "name": "Bay City"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "巴特尔克里克",
+        "state": 3136,
+        "name": "Battle Creek"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "迪尔伯恩",
+        "state": 3136,
+        "name": "Dearborn"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "大急流城",
+        "state": 3136,
+        "name": "Grand Rapids"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "底特律",
+        "state": 3136,
+        "name": "Detroit"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "弗林特",
+        "state": 3136,
+        "name": "Flint"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "怀恩多特",
+        "state": 3136,
+        "name": "Wyandotte"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "兰辛",
+        "state": 3136,
+        "name": "Lansing"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "马斯基根",
+        "state": 3136,
+        "name": "Muskegon"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "庞菷亚克",
+        "state": 3136,
+        "name": "Pontiac"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "卡拉马袓",
+        "state": 3136,
+        "name": "Kalamazoo"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "萨吉诺",
+        "state": 3136,
+        "name": "Saginaw"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "苏圣玛丽",
+        "state": 3136,
+        "name": "Sault Ste Marie"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "沃伦",
+        "state": 3136,
+        "name": "Warren"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "休伦港",
+        "state": 3136,
+        "name": "Port Huron"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "比洛克西",
+        "state": 3138,
+        "name": "Biloxi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "格尔夫波特",
+        "state": 3138,
+        "name": "Gulfport"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "格林维尔",
+        "state": 3138,
+        "name": "Greenville"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "哈蒂斯堡",
+        "state": 3138,
+        "name": "Hattiesburg"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "杰克逊",
+        "state": 3138,
+        "name": "Jackson"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "默里迪恩",
+        "state": 3138,
+        "name": "Meridian"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "维克斯堡",
+        "state": 3138,
+        "name": "Vicksburg"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "班戈",
+        "state": 3133,
+        "name": "Bangor"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "波特兰",
+        "state": 3133,
+        "name": "Portland"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "刘易斯顿",
+        "state": 3133,
+        "name": "Lewiston"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "奥马哈",
+        "state": 3141,
+        "name": "Omaha"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "贝尔维尤",
+        "state": 3141,
+        "name": "Bellevue"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "林肯",
+        "state": 3141,
+        "name": "Lincoln"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "阿伯丁",
+        "state": 3155,
+        "name": "Aberdeen"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "拉皮德城",
+        "state": 3155,
+        "name": "Rapid City"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "苏福尔斯",
+        "state": 3155,
+        "name": "Sioux Falls"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "埃尔科",
+        "state": 3142,
+        "name": "Elko"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "北拉斯维加斯",
+        "state": 3142,
+        "name": "North Las Vegas"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "弗吉尼亚城",
+        "state": 3142,
+        "name": "Virginia City"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "亨德森",
+        "state": 3142,
+        "name": "Henderson"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "里诺",
+        "state": 3142,
+        "name": "Reno"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "拉斯维加斯",
+        "state": 3142,
+        "name": "Las Vegas"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "卡森城",
+        "state": 3142,
+        "name": "Carson City"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "斯帕克斯",
+        "state": 3142,
+        "name": "Sparks"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "北查尔斯顿",
+        "state": 3154,
+        "name": "North Charleston"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "查尔斯顿",
+        "state": 3154,
+        "name": "Charleston"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "哥伦比亚",
+        "state": 3154,
+        "name": "Colombia"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "布法罗",
+        "state": 3146,
+        "name": "Buffalo"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "罗切斯特",
+        "state": 3146,
+        "name": "Rochester"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "纽约市",
+        "state": 3146,
+        "name": "New York"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "多佛",
+        "state": 3121,
+        "name": "Dover"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "纽瓦克",
+        "state": 3121,
+        "name": "Newark"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "威明顿",
+        "state": 3121,
+        "name": "Wilmington"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "布利斯托",
+        "state": 3156,
+        "name": "Bristol"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "查塔努加",
+        "state": 3156,
+        "name": "Chattanooga"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "金斯波特",
+        "state": 3156,
+        "name": "Kingsport"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "孟菲斯",
+        "state": 3156,
+        "name": "Memphis"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "诺克斯维尔",
+        "state": 3156,
+        "name": "Knoxville"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "纳什维尔",
+        "state": 3156,
+        "name": "Nashville"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "三城区",
+        "state": 3156,
+        "name": "Tri-City Area"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "士麦那",
+        "state": 3156,
+        "name": "Smyrna"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "斯普林希尔",
+        "state": 3156,
+        "name": "Spring Hill"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "约翰逊城",
+        "state": 3156,
+        "name": "Johnson City"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "弗吉尼亚比奇",
+        "state": 3160,
+        "name": "Virginia Beach"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "诺福克",
+        "state": 3160,
+        "name": "Norfolk"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "切萨皮克",
+        "state": 3160,
+        "name": "Chesapeake"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "阿普尓顿",
+        "state": 3163,
+        "name": "Appleton"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "奥什科什",
+        "state": 3163,
+        "name": "Oshkosh"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "格林贝",
+        "state": 3163,
+        "name": "Green Bay"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "基诺沙",
+        "state": 3163,
+        "name": "Kenosha"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "拉克罗斯",
+        "state": 3163,
+        "name": "Lacrosse"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "拉辛",
+        "state": 3163,
+        "name": "Racine"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "迈迪逊",
+        "state": 3163,
+        "name": "Madison"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "密尔沃基",
+        "state": 3163,
+        "name": "Milwaukee"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "马尼托沃克",
+        "state": 3163,
+        "name": "Manitowoc"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "欧克莱尓",
+        "state": 3163,
+        "name": "Eau Claire"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "沃索",
+        "state": 3163,
+        "name": "Wausau"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "希博伊根",
+        "state": 3163,
+        "name": "Sheboygan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "查尔斯顿",
+        "state": 3162,
+        "name": "Charleston"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "亨廷顿",
+        "state": 3162,
+        "name": "Huntington"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "帕克斯堡",
+        "state": 3162,
+        "name": "Parkersburg"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "康科德",
+        "state": 3143,
+        "name": "Concord"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "曼彻斯特",
+        "state": 3143,
+        "name": "Manchester"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "纳舒厄",
+        "state": 3143,
+        "name": "Nashua"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "阿尔伯克基",
+        "state": 3145,
+        "name": "Albuquerque"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "拉斯克鲁塞斯",
+        "state": 3145,
+        "name": "Las Cruces"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "罗斯韦尔",
+        "state": 3145,
+        "name": "Roswell"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "圣菲",
+        "state": 3145,
+        "name": "Santa Fe"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "凯卢阿",
+        "state": 3125,
+        "name": "Kailua"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "檀香山",
+        "state": 3125,
+        "name": "Honolulu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "希洛",
+        "state": 3125,
+        "name": "Hilo"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "纽瓦克",
+        "state": 3144,
+        "name": "Newark"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "帕特森",
+        "state": 3144,
+        "name": "Paterson"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "泽西城",
+        "state": 3144,
+        "name": "Jersey City"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "埃文斯维尔",
+        "state": 3128,
+        "name": "Evansville"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "韦恩堡",
+        "state": 3128,
+        "name": "Fort Wayne"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "印第安纳波利斯",
+        "state": 3128,
+        "name": "Indianapolis"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "奥尔顿",
+        "state": 3127,
+        "name": "Alton"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "奥罗拉",
+        "state": 3127,
+        "name": "Aurora"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "布卢明顿",
+        "state": 3127,
+        "name": "Bloomington"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "迪凯特",
+        "state": 3127,
+        "name": "Decatur"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "迪卡尔布",
+        "state": 3127,
+        "name": "De Kalb"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "东圣路易斯",
+        "state": 3127,
+        "name": "East St Louis"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "丹维尓",
+        "state": 3127,
+        "name": "Danville"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "厄巴纳-香槟",
+        "state": 3127,
+        "name": "Champaign-Urbana"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "盖尔斯堡",
+        "state": 3127,
+        "name": "Galesburg"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "罗克艾兰",
+        "state": 3127,
+        "name": "Rock Island"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "罗克福德",
+        "state": 3127,
+        "name": "Rockford"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "诺黙尔",
+        "state": 3127,
+        "name": "Normal"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "皮奥里亚",
+        "state": 3127,
+        "name": "Peoria"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "卡本代尔",
+        "state": 3127,
+        "name": "Carbondale"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "斯普林菲尔德",
+        "state": 3127,
+        "name": "Springfield"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "森特勒利亚",
+        "state": 3127,
+        "name": "Centralia"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "沃其根",
+        "state": 3127,
+        "name": "Waukegan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "芝加哥",
+        "state": 3127,
+        "name": "Chicago"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "凤凰城",
+        "state": 3116,
+        "name": "Phoenix"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "格兰代尔",
+        "state": 3116,
+        "name": "Glendale"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "梅萨",
+        "state": 3116,
+        "name": "Mesa"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "史卡兹代尔",
+        "state": 3116,
+        "name": "Scottsdale"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "坦普",
+        "state": 3116,
+        "name": "Tempe"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "图森",
+        "state": 3116,
+        "name": "Tucson"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "优玛",
+        "state": 3116,
+        "name": "Yuma"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "奥格登",
+        "state": 3158,
+        "name": "Ogden"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "雷登",
+        "state": 3158,
+        "name": "Layton"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "欧仁",
+        "state": 3158,
+        "name": "Orem"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "帕克城",
+        "state": 3158,
+        "name": "Park City"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "普罗沃",
+        "state": 3158,
+        "name": "Provo"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "圣乔治",
+        "state": 3158,
+        "name": "St.George"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "西瓦利城",
+        "state": 3158,
+        "name": "West Valley City"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "盐湖城",
+        "state": 3158,
+        "name": "Salt Lake City"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "奥古斯塔",
+        "state": 3124,
+        "name": "Augusta"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "哥伦布",
+        "state": 3124,
+        "name": "Columbus"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "梅肯",
+        "state": 3124,
+        "name": "Macon"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "沙瓦纳",
+        "state": 3124,
+        "name": "Savannah"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "亚特兰大",
+        "state": 3124,
+        "name": "Atlanta"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "加央",
+        "state": 1991,
+        "name": "Kangar"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "槟城",
+        "state": 1992,
+        "name": "George Town"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "北海",
+        "state": 1992,
+        "name": "Butterworth"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "大山脚",
+        "state": 1992,
+        "name": "Bukit Mertajam"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "高渊",
+        "state": 1992,
+        "name": "Nibong Tebal"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "瓜拉丁加奴",
+        "state": 1997,
+        "name": "Kuala Terengganu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "甘马挽",
+        "state": 1997,
+        "name": "Kemaman"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "龙运",
+        "state": 1997,
+        "name": "Dungun"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "马江",
+        "state": 1997,
+        "name": "Marang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "实兆",
+        "state": 1997,
+        "name": "Setiu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "乌鲁",
+        "state": 1997,
+        "name": "Hulu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "勿述",
+        "state": 1997,
+        "name": "Besut"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "巴东得腊",
+        "state": 1983,
+        "name": "Padang Terap"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "笨筒",
+        "state": 1983,
+        "name": "Pendang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "浮罗交怡",
+        "state": 1983,
+        "name": "Langkawi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "古邦巴素",
+        "state": 1983,
+        "name": "Kubang Pasu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "哥打士打",
+        "state": 1983,
+        "name": "Kota Setar"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "瓜拉姆达",
+        "state": 1983,
+        "name": "Kuala Muda"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "华玲",
+        "state": 1983,
+        "name": "Baling"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "居林",
+        "state": 1983,
+        "name": "Kulim"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "万拉峇鲁",
+        "state": 1983,
+        "name": "Bandar Baharu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "巴西富地",
+        "state": 1984,
+        "name": "Pasir Putih"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "巴西马",
+        "state": 1984,
+        "name": "Pasir Mas"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "道北",
+        "state": 1984,
+        "name": "Tumpat"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "丹那美拉",
+        "state": 1984,
+        "name": "Tanah Merah"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "登卓",
+        "state": 1984,
+        "name": "Bachok"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "哥打巴鲁",
+        "state": 1984,
+        "name": "Kota Bharu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "瓜拉吉赖",
+        "state": 1984,
+        "name": "Kuala Krai"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "话望生",
+        "state": 1984,
+        "name": "Gua Musang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "马樟",
+        "state": 1984,
+        "name": "Machang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "日里",
+        "state": 1984,
+        "name": "Jeli"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "吉隆坡",
+        "state": 1985,
+        "name": "Kuala Lumpur"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "纳闽",
+        "state": 1986,
+        "name": "Labuan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "维多利亚",
+        "state": 1986,
+        "name": "Victoria"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "北根",
+        "state": 1989,
+        "name": "Pekan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "百乐",
+        "state": 1989,
+        "name": "Bera"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "淡马鲁",
+        "state": 1989,
+        "name": "Temerloh"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "而连突",
+        "state": 1989,
+        "name": "Jerantut"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "关丹",
+        "state": 1989,
+        "name": "Kuantan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "金马仑高原",
+        "state": 1989,
+        "name": "Cameron Highlands"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "立卑",
+        "state": 1989,
+        "name": "Kuala Lipis"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "劳勿",
+        "state": 1989,
+        "name": "Raub"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "马兰",
+        "state": 1989,
+        "name": "Maran"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "文冬",
+        "state": 1989,
+        "name": "Bentong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "云冰",
+        "state": 1989,
+        "name": "Rompin"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "安顺",
+        "state": 1990,
+        "name": "Teluk Intan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "丹绒马",
+        "state": 1990,
+        "name": "Tanjung Malim"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "华都牙也",
+        "state": 1990,
+        "name": "Batu Gajah"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "和丰",
+        "state": 1990,
+        "name": "Sungai Siput"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "江沙",
+        "state": 1990,
+        "name": "Kuala Kangsar"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "紅土坎",
+        "state": 1990,
+        "name": "Lumut"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "太平",
+        "state": 1990,
+        "name": "Taiping"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "怡保",
+        "state": 1990,
+        "name": "Ipoh"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "笨珍",
+        "state": 1982,
+        "name": "Pontian"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "丰盛港",
+        "state": 1982,
+        "name": "Mersing"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "哥打丁宜",
+        "state": 1982,
+        "name": "Kota Tinggi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "居銮",
+        "state": 1982,
+        "name": "Kluang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "麻坡",
+        "state": 1982,
+        "name": "Muar"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "昔加末",
+        "state": 1982,
+        "name": "Segamat"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "新山",
+        "state": 1982,
+        "name": "Johor Bahru"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "峇株巴辖",
+        "state": 1982,
+        "name": "Batu Pahat"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "吧巴",
+        "state": 1994,
+        "name": "Papar"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "必达士",
+        "state": 1994,
+        "name": "Pitas"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "保佛",
+        "state": 1994,
+        "name": "Beaufort"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "比鲁兰",
+        "state": 1994,
+        "name": "Beluran"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "兵南邦",
+        "state": 1994,
+        "name": "Penampang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "担布南",
+        "state": 1994,
+        "name": "Tambunan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "斗湖",
+        "state": 1994,
+        "name": "Tawau"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "丹南",
+        "state": 1994,
+        "name": "Tenom"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "斗亚兰",
+        "state": 1994,
+        "name": "Tuaran"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "古达",
+        "state": 1994,
+        "name": "Kudat"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "哥打基纳巴鲁",
+        "state": 1994,
+        "name": "Kota Kinabalu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "古打毛律",
+        "state": 1994,
+        "name": "Kota Belud"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "哥打马鲁都",
+        "state": 1994,
+        "name": "Kota Marudu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "根地咬",
+        "state": 1994,
+        "name": "Keningau"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "瓜拉班尤",
+        "state": 1994,
+        "name": "Kuala Penyu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "古纳",
+        "state": 1994,
+        "name": "Kunak"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "京那巴登岸",
+        "state": 1994,
+        "name": "Kinabatangan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "兰脑",
+        "state": 1994,
+        "name": "Ranau"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "纳巴湾",
+        "state": 1994,
+        "name": "Nabawan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "拿笃",
+        "state": 1994,
+        "name": "Lahad Datu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "山打根",
+        "state": 1994,
+        "name": "Sandakan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "仙本那",
+        "state": 1994,
+        "name": "Semporna"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "西比陶",
+        "state": 1994,
+        "name": "Sipitang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "古晋",
+        "state": 1995,
+        "name": "Kuching"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "加帛",
+        "state": 1995,
+        "name": "Kapit"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "林梦",
+        "state": 1995,
+        "name": "Limbang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "民都鲁",
+        "state": 1995,
+        "name": "Bintulu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "木胶",
+        "state": 1995,
+        "name": "Mukah"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "美里",
+        "state": 1995,
+        "name": "Miri"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "木中",
+        "state": 1995,
+        "name": "Betong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "斯里阿曼",
+        "state": 1995,
+        "name": "Sri Aman"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "泗里街",
+        "state": 1995,
+        "name": "Sarikei"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "三马拉汉",
+        "state": 1995,
+        "name": "Samarahan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "泗务",
+        "state": 1995,
+        "name": "Sibu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "波德申",
+        "state": 1988,
+        "name": "Port Dickson"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "淡边",
+        "state": 1988,
+        "name": "Tampin"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "芙蓉",
+        "state": 1988,
+        "name": "Seremban"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "瓜拉庇劳",
+        "state": 1988,
+        "name": "Kuala Pilah"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "林茂",
+        "state": 1988,
+        "name": "Rembau"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "仁保",
+        "state": 1988,
+        "name": "Jempol"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "日叻务",
+        "state": 1988,
+        "name": "Jelebu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "八打灵",
+        "state": 1996,
+        "name": "Petaling"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "鹅麦",
+        "state": 1996,
+        "name": "Gombak"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "瓜拉冷岳",
+        "state": 1996,
+        "name": "Kuala Langat"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "瓜拉雪兰莪",
+        "state": 1996,
+        "name": "Kuala Selangor"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "沙白安南",
+        "state": 1996,
+        "name": "Sabak Bernam"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "乌鲁冷岳",
+        "state": 1996,
+        "name": "Hulu Langat"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "乌鲁雪兰莪",
+        "state": 1996,
+        "name": "Hulu Selangor"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "雪邦",
+        "state": 1996,
+        "name": "Sepang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "贝尔法斯特",
+        "state": 912,
+        "name": "Belfast"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "德里",
+        "state": 912,
+        "name": "Derry"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "利斯本",
+        "state": 912,
+        "name": "Lisburn"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "纽里",
+        "state": 912,
+        "name": "Newry"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "阿伯丁",
+        "state": 913,
+        "name": "Aberdeen"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "爱丁堡",
+        "state": 913,
+        "name": "Edinburgh"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "丹迪",
+        "state": 913,
+        "name": "Dundee"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "格拉斯哥",
+        "state": 913,
+        "name": "Glasgow"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "斯特灵",
+        "state": 913,
+        "name": "Stirling"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "因弗内斯",
+        "state": 913,
+        "name": "Inverness"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "班戈",
+        "state": 914,
+        "name": "Bangor"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "纽波特",
+        "state": 914,
+        "name": "Newport"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "卡迪夫",
+        "state": 914,
+        "name": "Cardiff"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "斯旺西",
+        "state": 914,
+        "name": "Swansea"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "爱塞特",
+        "state": 911,
+        "name": "Exeter"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "彼得伯勒",
+        "state": 911,
+        "name": "Peterborough"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "布拉德福德",
+        "state": 911,
+        "name": "Bradford"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "布莱顿霍夫",
+        "state": 911,
+        "name": "Brighton & Hove"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "布里斯托尔",
+        "state": 911,
+        "name": "Bristol"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "伯明翰",
+        "state": 911,
+        "name": "Birmingham"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "巴斯",
+        "state": 911,
+        "name": "Bath"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "德比",
+        "state": 911,
+        "name": "Derby"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "德罕",
+        "state": 911,
+        "name": "Durham"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "格洛斯特",
+        "state": 911,
+        "name": "Gloucester"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "赫尔河畔京斯敦",
+        "state": 911,
+        "name": "Kingston upon Hull"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "赫里福德",
+        "state": 911,
+        "name": "Hereford"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "剑桥",
+        "state": 911,
+        "name": "Cambridge"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "坎特伯雷",
+        "state": 911,
+        "name": "Canterbury"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "考文垂",
+        "state": 911,
+        "name": "Coventry"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "伦敦",
+        "state": 911,
+        "name": "London"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "林肯",
+        "state": 911,
+        "name": "Lincoln"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "兰开斯特",
+        "state": 911,
+        "name": "Lancaster"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "里彭",
+        "state": 911,
+        "name": "Ripon"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "利奇菲尔德",
+        "state": 911,
+        "name": "Lichfield"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "列斯特",
+        "state": 911,
+        "name": "Leicester"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "利物浦",
+        "state": 911,
+        "name": "Liverpool"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "利茲",
+        "state": 911,
+        "name": "Leeds"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "曼彻斯特",
+        "state": 911,
+        "name": "Manchester"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "南安普敦",
+        "state": 911,
+        "name": "Southampton"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "诺丁汉",
+        "state": 911,
+        "name": "Nottingham"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "牛津",
+        "state": 911,
+        "name": "Oxford"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "诺里奇",
+        "state": 911,
+        "name": "Norwich"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "纽卡斯尔",
+        "state": 911,
+        "name": "Newcastle"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "朴茨茅斯",
+        "state": 911,
+        "name": "Portsmouth"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "普利茅斯",
+        "state": 911,
+        "name": "Plymouth"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "普雷斯顿",
+        "state": 911,
+        "name": "Preston"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "卡莱尔",
+        "state": 911,
+        "name": "Carlisle"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "奇切斯特",
+        "state": 911,
+        "name": "Chichester"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "切斯特",
+        "state": 911,
+        "name": "Chester"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "圣阿本斯",
+        "state": 911,
+        "name": "Saint Albans"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "桑德兰",
+        "state": 911,
+        "name": "Sunderland"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "索尔斯堡",
+        "state": 911,
+        "name": "Salisbury"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "索福特",
+        "state": 911,
+        "name": "Salford"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "特鲁罗",
+        "state": 911,
+        "name": "Truro"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "特伦特河畔斯多克",
+        "state": 911,
+        "name": "Stoke-on-Trent"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "温彻斯特",
+        "state": 911,
+        "name": "Winchester"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "伍尔弗汉普顿",
+        "state": 911,
+        "name": "Wolverhampton"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "威尔斯",
+        "state": 911,
+        "name": "Wells"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "韦克菲尔德",
+        "state": 911,
+        "name": "Wakefield"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "伍斯特",
+        "state": 911,
+        "name": "Worcester"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "谢菲尔德",
+        "state": 911,
+        "name": "Sheffield"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "约克",
+        "state": 911,
+        "name": "York"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "伊利",
+        "state": 911,
+        "name": "Ely"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "安庆",
+        "state": 530,
+        "name": "Anqing"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "蚌埠",
+        "state": 530,
+        "name": "Bengbu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "亳州",
+        "state": 530,
+        "name": "Bozhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "巢湖",
+        "state": 530,
+        "name": "Chaohu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "池州",
+        "state": 530,
+        "name": "Chizhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "滁州",
+        "state": 530,
+        "name": "Chuzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "阜阳",
+        "state": 530,
+        "name": "Fuyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "淮北",
+        "state": 530,
+        "name": "Huaibei"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "合肥",
+        "state": 530,
+        "name": "Hefei"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "淮南",
+        "state": 530,
+        "name": "Huainan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "黄山",
+        "state": 530,
+        "name": "Huangshan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "六安",
+        "state": 530,
+        "name": "Luan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "马鞍山",
+        "state": 530,
+        "name": "MOS"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "宿州",
+        "state": 530,
+        "name": "Suzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "铜陵",
+        "state": 530,
+        "name": "Tongling"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "芜湖",
+        "state": 530,
+        "name": "Wuhu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "宣城",
+        "state": 530,
+        "name": "Xuancheng"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "昌平",
+        "state": 531,
+        "name": "Changping"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "朝阳",
+        "state": 531,
+        "name": "Chaoyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "东城",
+        "state": 531,
+        "name": "East"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "大兴",
+        "state": 531,
+        "name": "Daxing"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "房山",
+        "state": 531,
+        "name": "Fangshan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "丰台",
+        "state": 531,
+        "name": "Fengtai"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "海淀",
+        "state": 531,
+        "name": "Haidian"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "怀柔",
+        "state": 531,
+        "name": "Huairou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "门头沟",
+        "state": 531,
+        "name": "Mentougou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "密云",
+        "state": 531,
+        "name": "Miyun"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "平谷",
+        "state": 531,
+        "name": "Pinggu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "石景山",
+        "state": 531,
+        "name": "Shijingshan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "顺义",
+        "state": 531,
+        "name": "Shunyi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "通州",
+        "state": 531,
+        "name": "Tongzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "西城",
+        "state": 531,
+        "name": "West"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "延庆",
+        "state": 531,
+        "name": "Yanqing"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "北碚",
+        "state": 532,
+        "name": "Beibei"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "巴南",
+        "state": 532,
+        "name": "Banan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "璧山",
+        "state": 532,
+        "name": "Bishan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "城口",
+        "state": 532,
+        "name": "Chengkou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "长寿",
+        "state": 532,
+        "name": "longevity"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "大渡口",
+        "state": 532,
+        "name": "Dadukou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "垫江",
+        "state": 532,
+        "name": "Dianjiang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "大足",
+        "state": 532,
+        "name": "Dazu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "丰都",
+        "state": 532,
+        "name": "Fengdu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "奉节",
+        "state": 532,
+        "name": "Fengjie"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "涪陵",
+        "state": 532,
+        "name": "Fuling"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "合川",
+        "state": 532,
+        "name": "Aikawa"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "江北",
+        "state": 532,
+        "name": "Jiangbei"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "江津",
+        "state": 532,
+        "name": "Jiangjin"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "九龙坡",
+        "state": 532,
+        "name": "Jiulongpo"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "开县",
+        "state": 532,
+        "name": "Kaixian"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "两江新区",
+        "state": 532,
+        "name": "Two Rivers"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "梁平",
+        "state": 532,
+        "name": "Liangping"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "南岸",
+        "state": 532,
+        "name": "South Bank"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "南川",
+        "state": 532,
+        "name": "Nanchuan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "彭水",
+        "state": 532,
+        "name": "Pengshui"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "綦江",
+        "state": 532,
+        "name": "Qijiang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "黔江",
+        "state": 532,
+        "name": "Qianjiang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "荣昌",
+        "state": 532,
+        "name": "Rongchang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "沙坪坝",
+        "state": 532,
+        "name": "Shapingba"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "双桥",
+        "state": 532,
+        "name": "Shuangqiao"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "石柱",
+        "state": 532,
+        "name": "columns"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "铜梁",
+        "state": 532,
+        "name": "Tongliang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "潼南",
+        "state": 532,
+        "name": "Tongnan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "武隆",
+        "state": 532,
+        "name": "Wulong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "万盛",
+        "state": 532,
+        "name": "Pine Valley"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "巫山",
+        "state": 532,
+        "name": "Wushan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "巫溪",
+        "state": 532,
+        "name": "Wuxi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "万州",
+        "state": 532,
+        "name": "Wanzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "秀山",
+        "state": 532,
+        "name": "Xiushan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "渝北",
+        "state": 532,
+        "name": "Yubei"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "永川",
+        "state": 532,
+        "name": "Yongchuan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "云阳",
+        "state": 532,
+        "name": "Yunyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "酉阳",
+        "state": 532,
+        "name": "Youyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "渝中",
+        "state": 532,
+        "name": "Yuzhong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "忠县",
+        "state": 532,
+        "name": "Zhongxian"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "福州",
+        "state": 533,
+        "name": "Fuzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "龙岩",
+        "state": 533,
+        "name": "Longyan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "宁德",
+        "state": 533,
+        "name": "Ningde"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "南平",
+        "state": 533,
+        "name": "Nanping"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "莆田",
+        "state": 533,
+        "name": "Putian"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "泉州",
+        "state": 533,
+        "name": "Quanzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "三明",
+        "state": 533,
+        "name": "Sanming"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "厦门",
+        "state": 533,
+        "name": "Xiamen"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "漳州",
+        "state": 533,
+        "name": "Zhangzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "潮州",
+        "state": 535,
+        "name": "Chaozhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "东莞",
+        "state": 535,
+        "name": "Dongguan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "佛山",
+        "state": 535,
+        "name": "Foshan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "广州",
+        "state": 535,
+        "name": "Guangzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "河源",
+        "state": 535,
+        "name": "Heyuan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "惠州",
+        "state": 535,
+        "name": "Huizhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "江门",
+        "state": 535,
+        "name": "Jiangmen"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "揭阳",
+        "state": 535,
+        "name": "Jieyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "茂名",
+        "state": 535,
+        "name": "Maoming"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "梅州",
+        "state": 535,
+        "name": "Meizhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "清远",
+        "state": 535,
+        "name": "Qingyuan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "韶关",
+        "state": 535,
+        "name": "Shaoguan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "汕头",
+        "state": 535,
+        "name": "Shantou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "汕尾",
+        "state": 535,
+        "name": "Shanwei"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "深圳",
+        "state": 535,
+        "name": "Shenzhen"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "云浮",
+        "state": 535,
+        "name": "Yunfu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "阳江",
+        "state": 535,
+        "name": "Yangjiang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "珠海",
+        "state": 535,
+        "name": "Zhuhai"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "湛江",
+        "state": 535,
+        "name": "Zhanjiang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "肇庆",
+        "state": 535,
+        "name": "Zhaoqing"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "中山",
+        "state": 535,
+        "name": "Zhongshan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "白银",
+        "state": 534,
+        "name": "Silver"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "定西",
+        "state": 534,
+        "name": "Dingxi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "甘南",
+        "state": 534,
+        "name": "Gannan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "金昌",
+        "state": 534,
+        "name": "Jinchang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "酒泉",
+        "state": 534,
+        "name": "Jiuquan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "嘉峪关",
+        "state": 534,
+        "name": "Jiayuguan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "陇南",
+        "state": 534,
+        "name": "Longnan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "临夏",
+        "state": 534,
+        "name": "Linxia"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "兰州市",
+        "state": 534,
+        "name": "Lanzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "平凉",
+        "state": 534,
+        "name": "Pingliang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "庆阳",
+        "state": 534,
+        "name": "Qingyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "天水",
+        "state": 534,
+        "name": "Tin Shui"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "武威",
+        "state": 534,
+        "name": "Wuwei"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "张掖",
+        "state": 534,
+        "name": "Zhangye"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "北海",
+        "state": 536,
+        "name": "Beihai"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "百色",
+        "state": 536,
+        "name": "Baise"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "崇左",
+        "state": 536,
+        "name": "Chongzuo"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "防城港",
+        "state": 536,
+        "name": "Fangchenggang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "贵港",
+        "state": 536,
+        "name": "Guigang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "桂林",
+        "state": 536,
+        "name": "Guilin"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "河池",
+        "state": 536,
+        "name": "Hechi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "贺州",
+        "state": 536,
+        "name": "Hezhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "来宾",
+        "state": 536,
+        "name": "guests"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "柳州",
+        "state": 536,
+        "name": "Liuzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "南宁",
+        "state": 536,
+        "name": "Nanning"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "钦州",
+        "state": 536,
+        "name": "Chow"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "梧州",
+        "state": 536,
+        "name": "Wuzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "玉林",
+        "state": 536,
+        "name": "Yulin"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "安顺",
+        "state": 537,
+        "name": "Anshun"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "毕节",
+        "state": 537,
+        "name": "Bijie"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "贵阳",
+        "state": 537,
+        "name": "Guiyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "六盘水",
+        "state": 537,
+        "name": "Liupanshui"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "黔东南",
+        "state": 537,
+        "name": "Southeast"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "黔南",
+        "state": 537,
+        "name": "South Guizhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "黔西南",
+        "state": 537,
+        "name": "Southwest Guizhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "铜仁",
+        "state": 537,
+        "name": "Tongren"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "遵义",
+        "state": 537,
+        "name": "Lawrence"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "恩施",
+        "state": 542,
+        "name": "Enshi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "鄂州",
+        "state": 542,
+        "name": "Ezhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "黄冈",
+        "state": 542,
+        "name": "Huanggang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "黄石",
+        "state": 542,
+        "name": "Yellowstone"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "荆门",
+        "state": 542,
+        "name": "Jingmen"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "荆州",
+        "state": 542,
+        "name": "Jingzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "潜江",
+        "state": 542,
+        "name": "Qianjiang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "神农架",
+        "state": 542,
+        "name": "Shennongjia"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "十堰",
+        "state": 542,
+        "name": "Shiyan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "随州",
+        "state": 542,
+        "name": "Suizhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "天门",
+        "state": 542,
+        "name": "Tianmen"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "武汉",
+        "state": 542,
+        "name": "Wuhan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "孝感",
+        "state": 542,
+        "name": "Xiaogan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "咸宁",
+        "state": 542,
+        "name": "Xianning"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "仙桃",
+        "state": 542,
+        "name": "Bristol"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "襄阳",
+        "state": 542,
+        "name": "Yangyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "宜昌",
+        "state": 542,
+        "name": "Yichang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "保定",
+        "state": 539,
+        "name": "Baoding"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "承德",
+        "state": 539,
+        "name": "Chengde"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "沧州",
+        "state": 539,
+        "name": "Cangzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "邯郸",
+        "state": 539,
+        "name": "Handan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "衡水",
+        "state": 539,
+        "name": "Hengshui"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "廊坊",
+        "state": 539,
+        "name": "Langfang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "秦皇岛",
+        "state": 539,
+        "name": "Qinhuangdao"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "石家庄",
+        "state": 539,
+        "name": "Shijiazhuang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "唐山",
+        "state": 539,
+        "name": "Tangshan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "邢台",
+        "state": 539,
+        "name": "Xingtai"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "张家口",
+        "state": 539,
+        "name": "Zhangjiakou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "大庆",
+        "state": 540,
+        "name": "Daqing"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "大兴安岭",
+        "state": 540,
+        "name": "Mountains"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "哈尔滨",
+        "state": 540,
+        "name": "Harbin"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "鹤岗",
+        "state": 540,
+        "name": "Hegang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "黑河",
+        "state": 540,
+        "name": "Heihe"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "佳木斯",
+        "state": 540,
+        "name": "Jiamusi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "鸡西",
+        "state": 540,
+        "name": "Jixi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "牡丹江",
+        "state": 540,
+        "name": "Mudanjiang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "齐齐哈尔",
+        "state": 540,
+        "name": "Qiqihar"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "七台河",
+        "state": 540,
+        "name": "Qitaihe"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "绥化",
+        "state": 540,
+        "name": "Suihua"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "双鸭山",
+        "state": 540,
+        "name": "Shuangyashan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "伊春",
+        "state": 540,
+        "name": "Yichun"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "常德",
+        "state": 543,
+        "name": "Changde"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "长沙",
+        "state": 543,
+        "name": "Changsha"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "郴州",
+        "state": 543,
+        "name": "Chenzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "怀化",
+        "state": 543,
+        "name": "Huaihua"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "衡阳",
+        "state": 543,
+        "name": "Hengyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "娄底",
+        "state": 543,
+        "name": "Loudi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "邵阳",
+        "state": 543,
+        "name": "Shaoyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "湘潭",
+        "state": 543,
+        "name": "Xiangtan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "湘西",
+        "state": 543,
+        "name": "Xiangxi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "益阳",
+        "state": 543,
+        "name": "Yiyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "岳阳",
+        "state": 543,
+        "name": "Yueyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "永州",
+        "state": 543,
+        "name": "Yongzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "张家界",
+        "state": 543,
+        "name": "Zhangjiajie"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "株洲",
+        "state": 543,
+        "name": "Zhuzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "安阳",
+        "state": 541,
+        "name": "Anyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "鹤壁",
+        "state": 541,
+        "name": "Hebi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "济源",
+        "state": 541,
+        "name": "Jiyuan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "焦作",
+        "state": 541,
+        "name": "Jiaozuo"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "开封",
+        "state": 541,
+        "name": "Kaifeng"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "漯河",
+        "state": 541,
+        "name": "Luohe"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "洛阳",
+        "state": 541,
+        "name": "Luoyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "南阳",
+        "state": 541,
+        "name": "Nanyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "平顶山",
+        "state": 541,
+        "name": "mesa"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "濮阳",
+        "state": 541,
+        "name": "Puyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "三门峡",
+        "state": 541,
+        "name": "Sanmenxia"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "商丘",
+        "state": 541,
+        "name": "Shangqiu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "许昌",
+        "state": 541,
+        "name": "Xuchang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "新乡",
+        "state": 541,
+        "name": "Xinxiang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "信阳",
+        "state": 541,
+        "name": "Xinyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "周口",
+        "state": 541,
+        "name": "Zhoukou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "驻马店",
+        "state": 541,
+        "name": "Zhumadian"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "郑州",
+        "state": 541,
+        "name": "Zhengzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "白沙",
+        "state": 538,
+        "name": "White Sands"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "保亭",
+        "state": 538,
+        "name": "Baoting"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "昌江",
+        "state": 538,
+        "name": "Changjiang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "澄迈",
+        "state": 538,
+        "name": "Chengmai"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "定安",
+        "state": 538,
+        "name": "Honour"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "东方",
+        "state": 538,
+        "name": "East"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "儋州",
+        "state": 538,
+        "name": "Danzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "海口",
+        "state": 538,
+        "name": "Haikou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "乐东",
+        "state": 538,
+        "name": "Music East"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "临高",
+        "state": 538,
+        "name": "Pro High"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "陵水",
+        "state": 538,
+        "name": "Lingshui"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "南沙",
+        "state": 538,
+        "name": "Nansha"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "琼海",
+        "state": 538,
+        "name": "Qionghai"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "琼中",
+        "state": 538,
+        "name": "Qiongzhong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "三亚",
+        "state": 538,
+        "name": "Sanya"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "屯昌",
+        "state": 538,
+        "name": "Tunchang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "文昌",
+        "state": 538,
+        "name": "Wenchang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "万宁",
+        "state": 538,
+        "name": "Manning"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "五指山",
+        "state": 538,
+        "name": "Fingers"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "西沙",
+        "state": 538,
+        "name": "Xisha"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "中沙",
+        "state": 538,
+        "name": "in the sand"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "白城",
+        "state": 546,
+        "name": "White City"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "白山",
+        "state": 546,
+        "name": "White Mountains"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "长春",
+        "state": 546,
+        "name": "Changchun"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "吉林",
+        "state": 546,
+        "name": "Jilin"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "辽源",
+        "state": 546,
+        "name": "Liaoyuan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "四平",
+        "state": 546,
+        "name": "Siping"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "松原",
+        "state": 546,
+        "name": "Matsubara"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "通化",
+        "state": 546,
+        "name": "Tonghua"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "延边",
+        "state": 546,
+        "name": "Yanbian"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "常州",
+        "state": 544,
+        "name": "Changzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "淮安",
+        "state": 544,
+        "name": "Huai"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "连云港",
+        "state": 544,
+        "name": "Lianyungang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "南京",
+        "state": 544,
+        "name": "Nanjing"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "南通",
+        "state": 544,
+        "name": "Nantong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "宿迁",
+        "state": 544,
+        "name": "Suqian"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "苏州",
+        "state": 544,
+        "name": "Suzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "泰州",
+        "state": 544,
+        "name": "Taizhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "无锡",
+        "state": 544,
+        "name": "Wuxi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "徐州",
+        "state": 544,
+        "name": "Xuzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "盐城",
+        "state": 544,
+        "name": "Yancheng"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "扬州",
+        "state": 544,
+        "name": "Yangzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "镇江",
+        "state": 544,
+        "name": "Zhenjiang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "抚州",
+        "state": 545,
+        "name": "Fuzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "赣州",
+        "state": 545,
+        "name": "Ganzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "吉安",
+        "state": 545,
+        "name": "Jian"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "景德镇",
+        "state": 545,
+        "name": "Jingdezhen"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "九江",
+        "state": 545,
+        "name": "Jiujiang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "南昌",
+        "state": 545,
+        "name": "Nanchang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "萍乡",
+        "state": 545,
+        "name": "Pingxiang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "上饶",
+        "state": 545,
+        "name": "Shangrao"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "新余",
+        "state": 545,
+        "name": "Xinyu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "宜春",
+        "state": 545,
+        "name": "Yichun"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "鹰潭",
+        "state": 545,
+        "name": "Yingtan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "鞍山",
+        "state": 547,
+        "name": "Anshan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "本溪",
+        "state": 547,
+        "name": "Benxi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "朝阳",
+        "state": 547,
+        "name": "Chaoyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "丹东",
+        "state": 547,
+        "name": "Dandong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "大连",
+        "state": 547,
+        "name": "Dalian"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "抚顺",
+        "state": 547,
+        "name": "Fushun"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "阜新",
+        "state": 547,
+        "name": "Fuxin"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "葫芦岛",
+        "state": 547,
+        "name": "Huludao"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "锦州",
+        "state": 547,
+        "name": "Jinzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "辽阳",
+        "state": 547,
+        "name": "Liaoyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "盘锦",
+        "state": 547,
+        "name": "Panjin"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "沈阳",
+        "state": 547,
+        "name": "Shenyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "铁岭",
+        "state": 547,
+        "name": "Tieling"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "营口",
+        "state": 547,
+        "name": "Yingkou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "阿拉善",
+        "state": 548,
+        "name": "Alxa"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "包头",
+        "state": 548,
+        "name": "Baotou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "巴彦淖尔",
+        "state": 548,
+        "name": "Bayannur"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "赤峰",
+        "state": 548,
+        "name": "Chifeng"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "鄂尔多斯",
+        "state": 548,
+        "name": "Erdos"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "呼和浩特",
+        "state": 548,
+        "name": "Hohhot"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "呼伦贝尔",
+        "state": 548,
+        "name": "Hulunbeier"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "通辽",
+        "state": 548,
+        "name": "Tongliao"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "乌海",
+        "state": 548,
+        "name": "Wuhai"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "乌兰察布",
+        "state": 548,
+        "name": "Bu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "兴安",
+        "state": 548,
+        "name": "Xing"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "锡林郭勒",
+        "state": 548,
+        "name": "Gol"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "固原",
+        "state": 549,
+        "name": "Guyuan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "石嘴山",
+        "state": 549,
+        "name": "Shizuishan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "吴忠",
+        "state": 549,
+        "name": "Wuzhong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "银川",
+        "state": 549,
+        "name": "Yinchuan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "中卫",
+        "state": 549,
+        "name": "Zhongwei"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "果洛",
+        "state": 550,
+        "name": "Guoluo"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "海北",
+        "state": 550,
+        "name": "rambling"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "海东",
+        "state": 550,
+        "name": "Haidong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "黄南",
+        "state": 550,
+        "name": "Huangnan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "海南",
+        "state": 550,
+        "name": "Hainan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "海西",
+        "state": 550,
+        "name": "Hercynian"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "西宁",
+        "state": 550,
+        "name": "Xining"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "玉树",
+        "state": 550,
+        "name": "Yushu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "阿坝",
+        "state": 555,
+        "name": "Aba"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "巴中",
+        "state": 555,
+        "name": "Pakistan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "成都",
+        "state": 555,
+        "name": "Chengdu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "德阳",
+        "state": 555,
+        "name": "Deyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "达州",
+        "state": 555,
+        "name": "Florida"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "广安",
+        "state": 555,
+        "name": "Kwong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "广元",
+        "state": 555,
+        "name": "Guangyuan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "甘孜",
+        "state": 555,
+        "name": "Ganzi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "凉山",
+        "state": 555,
+        "name": "Liangshan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "乐山",
+        "state": 555,
+        "name": "Leshan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "泸州",
+        "state": 555,
+        "name": "Luzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "眉山",
+        "state": 555,
+        "name": "Meishan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "绵阳",
+        "state": 555,
+        "name": "Mianyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "南充",
+        "state": 555,
+        "name": "Nanchong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "内江",
+        "state": 555,
+        "name": "Neijiang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "攀枝花",
+        "state": 555,
+        "name": "Panzhihua"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "遂宁",
+        "state": 555,
+        "name": "Suining"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "雅安",
+        "state": 555,
+        "name": "Yaan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "宜宾",
+        "state": 555,
+        "name": "Yibin"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "自贡",
+        "state": 555,
+        "name": "Zigong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "资阳",
+        "state": 555,
+        "name": "Ziyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "滨州",
+        "state": 552,
+        "name": "Binzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "东营",
+        "state": 552,
+        "name": "Dongying"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "德州",
+        "state": 552,
+        "name": "Dezhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "菏泽",
+        "state": 552,
+        "name": "Heze"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "济南",
+        "state": 552,
+        "name": "Jinan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "济宁",
+        "state": 552,
+        "name": "Jining"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "聊城",
+        "state": 552,
+        "name": "Liaocheng"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "莱芜",
+        "state": 552,
+        "name": "Laiwu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "临沂",
+        "state": 552,
+        "name": "Linyi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "青岛",
+        "state": 552,
+        "name": "Qingdao"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "日照",
+        "state": 552,
+        "name": "Rizhao"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "泰安",
+        "state": 552,
+        "name": "Taian"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "潍坊",
+        "state": 552,
+        "name": "Weifang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "威海",
+        "state": 552,
+        "name": "Weihai"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "烟台",
+        "state": 552,
+        "name": "Yantai"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "淄博",
+        "state": 552,
+        "name": "Zibo"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "枣庄",
+        "state": 552,
+        "name": "Zaozhuang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "宝山",
+        "state": 553,
+        "name": "Baoshan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "崇明",
+        "state": 553,
+        "name": "Chongming"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "长宁",
+        "state": 553,
+        "name": "Changning"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "奉贤",
+        "state": 553,
+        "name": "Fengxian"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "虹口",
+        "state": 553,
+        "name": "Hongkou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "黄浦",
+        "state": 553,
+        "name": "Huangpu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "静安",
+        "state": 553,
+        "name": "Jing"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "嘉定",
+        "state": 553,
+        "name": "Jiading"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "金山",
+        "state": 553,
+        "name": "Jinshan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "卢湾",
+        "state": 553,
+        "name": "Luwan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "闵行",
+        "state": 553,
+        "name": "Minhang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "浦东新区",
+        "state": 553,
+        "name": "Pudong New District"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "普陀",
+        "state": 553,
+        "name": "Po"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "青浦",
+        "state": 553,
+        "name": "Qingpu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "松江",
+        "state": 553,
+        "name": "Songjiang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "徐汇",
+        "state": 553,
+        "name": "Xuhui"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "杨浦",
+        "state": 553,
+        "name": "Yangpu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "闸北",
+        "state": 553,
+        "name": "Zhabei"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "安康",
+        "state": 551,
+        "name": "Ankang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "宝鸡",
+        "state": 551,
+        "name": "Baoji"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "汉中",
+        "state": 551,
+        "name": "Hanzhong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "商洛",
+        "state": 551,
+        "name": "Shangluo"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "铜川",
+        "state": 551,
+        "name": "Tongchuan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "渭南",
+        "state": 551,
+        "name": "Weinan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "西安",
+        "state": 551,
+        "name": "Xi'an"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "咸阳",
+        "state": 551,
+        "name": "Xianyang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "延安",
+        "state": 551,
+        "name": "Yanan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "榆林",
+        "state": 551,
+        "name": "Yulin"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "长治",
+        "state": 554,
+        "name": "Changzhi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "大同",
+        "state": 554,
+        "name": "Datong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "晋城",
+        "state": 554,
+        "name": "Jincheng"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "晋中",
+        "state": 554,
+        "name": "Jinzhong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "临汾",
+        "state": 554,
+        "name": "Linfen"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "吕梁",
+        "state": 554,
+        "name": "Luliang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "朔州",
+        "state": 554,
+        "name": "Shuozhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "太原",
+        "state": 554,
+        "name": "Taiyuan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "忻州",
+        "state": 554,
+        "name": "Xinzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "运城",
+        "state": 554,
+        "name": "Yuncheng"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "阳泉",
+        "state": 554,
+        "name": "Yangquan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "北辰",
+        "state": 556,
+        "name": "North Star"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "宝坻",
+        "state": 556,
+        "name": "Baodi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "滨海新区",
+        "state": 556,
+        "name": "Binhai New Area"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "东丽",
+        "state": 556,
+        "name": "Toray"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "河北",
+        "state": 556,
+        "name": "Hebei"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "河东",
+        "state": 556,
+        "name": "east"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "和平",
+        "state": 556,
+        "name": "Peace"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "红桥",
+        "state": 556,
+        "name": "Red Bridge"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "河西",
+        "state": 556,
+        "name": "west"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "静海",
+        "state": 556,
+        "name": "Jinghai"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "津南",
+        "state": 556,
+        "name": "Jinnan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "蓟县",
+        "state": 556,
+        "name": "Jixian"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "宁河",
+        "state": 556,
+        "name": "Ninghe"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "南开",
+        "state": 556,
+        "name": "Nankai"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "武清",
+        "state": 556,
+        "name": "Wuqing"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "西青",
+        "state": 556,
+        "name": "West Green"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "阿里",
+        "state": 558,
+        "name": "Ali"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "昌都",
+        "state": 558,
+        "name": "Qamdo"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "拉萨",
+        "state": 558,
+        "name": "Lhasa"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "林芝",
+        "state": 558,
+        "name": "Nyingchi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "那曲",
+        "state": 558,
+        "name": "Nagqu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "日喀则",
+        "state": 558,
+        "name": "Shigatse"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "山南",
+        "state": 558,
+        "name": "Shannan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "阿克苏",
+        "state": 557,
+        "name": "Aksu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "阿拉尔",
+        "state": 557,
+        "name": "Arar"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "阿勒泰",
+        "state": 557,
+        "name": "Altay"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "博尔塔拉",
+        "state": 557,
+        "name": "Bortala"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "巴音郭楞",
+        "state": 557,
+        "name": "Bayingolin"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "昌吉",
+        "state": 557,
+        "name": "Changji"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "哈密",
+        "state": 557,
+        "name": "Hamilton"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "和田",
+        "state": 557,
+        "name": "Hotan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "克拉玛依",
+        "state": 557,
+        "name": "Karamay"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "喀什",
+        "state": 557,
+        "name": "Kashgar"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "克孜勒苏",
+        "state": 557,
+        "name": "Kizilsu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "石河子",
+        "state": 557,
+        "name": "Shihezi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "塔城",
+        "state": 557,
+        "name": "Tacheng"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "吐鲁番",
+        "state": 557,
+        "name": "Turpan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "图木舒克",
+        "state": 557,
+        "name": "Figure wooden Shook"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "五家渠",
+        "state": 557,
+        "name": "Wujiaqu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "乌鲁木齐",
+        "state": 557,
+        "name": "Urumqi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "伊犁",
+        "state": 557,
+        "name": "Ili"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "保山",
+        "state": 559,
+        "name": "Baoshan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "楚雄",
+        "state": 559,
+        "name": "Chuxiong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "德宏",
+        "state": 559,
+        "name": "Devon"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "大理",
+        "state": 559,
+        "name": "Dali"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "迪庆",
+        "state": 559,
+        "name": "Diqing"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "红河",
+        "state": 559,
+        "name": "Red"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "昆明",
+        "state": 559,
+        "name": "Kunming"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "临沧",
+        "state": 559,
+        "name": "Lincang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "丽江",
+        "state": 559,
+        "name": "Lijiang"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "怒江",
+        "state": 559,
+        "name": "Nu"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "普洱",
+        "state": 559,
+        "name": "Pu'er"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "曲靖",
+        "state": 559,
+        "name": "Qujing"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "文山",
+        "state": 559,
+        "name": "Wenshan"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "西双版纳",
+        "state": 559,
+        "name": "Xishuangbanna"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "玉溪",
+        "state": 559,
+        "name": "Yuxi"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "昭通",
+        "state": 559,
+        "name": "Zhaotong"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "湖州",
+        "state": 560,
+        "name": "Huzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "杭州",
+        "state": 560,
+        "name": "Hangzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "金华",
+        "state": 560,
+        "name": "Jinhua"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "嘉兴",
+        "state": 560,
+        "name": "Jiaxing"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "丽水",
+        "state": 560,
+        "name": "Lishui"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "宁波",
+        "state": 560,
+        "name": "Ningbo"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "衢州",
+        "state": 560,
+        "name": "Quzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "绍兴",
+        "state": 560,
+        "name": "Shaoxing"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "台州",
+        "state": 560,
+        "name": "Taizhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "温州",
+        "state": 560,
+        "name": "Wenzhou"
+    }
+},
+{
+    "model": "location.city",
+    "fields": {
+        "cn_name": "舟山",
+        "state": 560,
+        "name": "Zhoushan"
+    }
+}
+]
